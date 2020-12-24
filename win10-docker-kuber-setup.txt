@@ -1,3 +1,38 @@
 win10-docker-kuber-setup
 
-test
+Refer Page
+Docker + kubernet: 
+https://www.cnblogs.com/weschen/p/12658839.html
+!!!!!!FOLLOW THIS==https://github.com/AliyunContainerService/k8s-for-docker-desktop/blob/master/README_en.md
+https://github.com/docker/for-win/issues/5442
+https://github.com/docker/for-win/issues/3799
+
+Kubernet Image:
+https://www.cnblogs.com/yunqishequ/p/10330383.html
+
+Kubernet Slice:
+https://container.training/kube-selfpaced.yml.html#5
+
+docker image mirror:
+https://docker_practice.gitee.io/install/mirror.html
+
+git chinese mirror speedup
+
+git config --global http.proxy http://hz03397:123asdZXC@hzproxyisa.utstar.com.cn:1080
+git config --global https.proxy https://hz03397:123asdZXC@hzproxyisa.utstar.com.cn:1080
+
+aliyun image speedup
+https://agb1gk36.mirror.aliyuncs.com
+
+docker version 2.5.0.0(49427)
+channel stable
+with kubernets 1.19.3
+can run kubernets successfully !!!!!
+
+system setting:
+3G Mem, 2 CPU, 
+manual proxy: empty
+
+
+
+
