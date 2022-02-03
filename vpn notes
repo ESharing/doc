@@ -1,0 +1,3 @@
+2022/2/3 
+ant - how to get 300M ? 
+open the ant, delete the \HKEY_CURRENT_USER\SOFTWARE\ant\id, refresh ant
