@@ -1,3 +1,8 @@
 2022/2/3 
 ant - how to get 300M ? 
 open the ant, delete the \HKEY_CURRENT_USER\SOFTWARE\ant\id, refresh ant
+
+2022/03/07
+can not get access server list and left size, 
+reinstall, delete register, NOT USEFUL 
+THIS work: unzip ant package in download dir, OK! 
