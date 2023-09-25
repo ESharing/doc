@@ -1,3 +1,4 @@
+rm /etc/resolved.conf
 systemctl enable --now systemd-resolved
 ln -s /run/systemd/resolved/resolved.conf /etc/resolved.conf
 /lib/systemd/systemd-resolved >/dev/null 2>&1 &
