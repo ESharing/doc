@@ -1,0 +1,9 @@
+systemctl enable --now systemd-resolved
+ln -s /run/systemd/resolved/resolved.conf /etc/resolved.conf
+/lib/systemd/systemd-resolved >/dev/null 2>&1 &
+
+system configure DNS Server IP:
+/etc/systemd/resolved.conf
+
+configure other parameters: 
+/lib/systemd/system/systemd-resolved.service
